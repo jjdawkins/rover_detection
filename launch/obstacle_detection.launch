@@ -79,7 +79,7 @@
   </rosparam>
 </node>
 
-<node pkg="rover_avoidance" type="obstacle_detection_node" name="obstacle_detector" ns="rover">
+<node pkg="rover_detection" type="obstacle_detection_node" name="obstacle_detector" ns="rover">
 
 </node>
 </launch>
